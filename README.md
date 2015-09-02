@@ -16,6 +16,8 @@ This is a user experience (UX) tweak that diverges away from the common and defa
 
 ## Stateful Navigation / UI Elements
 
+There are many instances where a lot of functionality is desired that will clutter a screen with static buttons to get the user's attention. UX designers often don't consider element states in their static image designs. Stateful navigation is an improvement to UX where certain visual elements are hidden when they are not relevent to the user. An optimization that the shows or hides information based on what the user is looking at, without requiring the user to touch buttons/symbols that drill them down into other parts of the app.
+
 <p align="center">
 	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-statefulnavigation-tp.gif" height="550">
 </p>
