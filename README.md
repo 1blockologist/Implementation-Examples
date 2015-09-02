@@ -6,9 +6,9 @@ Descriptions and visual examples of implementations I've created
 This is a user experience (UX) tweak that diverges away from the common bland pull to refresh visual element that users find in many apps. This implementation allows for more branding and theming to be done where it may not otherwise fit on the layout. A perk here is that more information can also be added, such as words or graphics that tell the user that the application is syncing or loading, while presenting the user with exciting elements to keep their attention and their engagement high.
 <p align="center">
   <img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-custom-ptr-tp.gif" height="550">
-  </br>##### *Trend Prophet - Stock Market Trading*
+  </br>*Trend Prophet - Stock Market Trading*
 </p>
-
+*Trend Prophet - Stock Market Trading*
 The above example features a tableview (RecyclerView object) with a header. The classical art (seen in the Pull to Refresh drop down) is a key part of the app's theme, but would not fit very well with the aesthetics of the main application state. As part of the tableview header, it would also be too large or not fit well. Adding it into the pull to refresh user experience, and overriding the pull to refresh objects with custom graphics, creates this branding opportunity and adds an extra dimension to the user experience.
 
 ## Custom Sticky Headers
