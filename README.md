@@ -8,5 +8,14 @@ This is a user experience (UX) tweak that diverges away from the common and defa
   <img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-custom-ptr-tp.gif" height="550">
 </p>
 
+## Custom Sticky Headers
 
+<p align="center">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-custom-sticky-headers-tp.gif" height="550">
+</p>
 
+## Stateful Navigation / UI Elements
+
+<p align="center">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-statefulnavigation-tp.gif" height="550">
+</p>
