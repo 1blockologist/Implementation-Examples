@@ -57,6 +57,7 @@ Different platforms offer a variety of unique ways to engage with the user. Andr
 
 This widget depicts the different administrative districts (boroughs) of New York City. Each borough in this widget lights up when there is new information posted on the internet about or from those boroughs. They can also respond to touch events independently.
 
+/*
 ## Caching
 
 ## Threading
@@ -65,5 +66,4 @@ This widget depicts the different administrative districts (boroughs) of New Yor
 Non-intrusive network operations maintain 
 
 ## Lazy Loading
-
-## 
+*/
