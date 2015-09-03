@@ -68,6 +68,6 @@ Give a helping hand.
 
 <p align="center">
 	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-lowfrictionloginA-android-wst.gif" height="550'">
-	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-lowfrictionloginA-android-wst.gif" height="550'">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-lowfrictionloginB-android-wst.gif" height="550'">
 	</br><i>WhoSay Talent - version 3.7</i>
 </p>
