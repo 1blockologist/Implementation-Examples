@@ -64,7 +64,7 @@ This widget depicts the different administrative districts (boroughs) of New Yor
 
 ## Low Friction Login
 
-Give a helping hand.
+Give a helping hand. Seemingly small things such as autocompleting a username will help with user engagement.
 
 <p align="center">
 	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-lowfrictionloginA-android-wst.gif" height="550'">
