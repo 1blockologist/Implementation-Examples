@@ -90,3 +90,5 @@ Give a helping hand. Seemingly small things such as autocompleting a username wi
 	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-lowfrictionloginB-android-wst.gif" height="550'">
 	</br><i>WhoSay Talent - version 3.7</i>
 </p>
+
+[back to top](#intro)
