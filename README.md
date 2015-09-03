@@ -36,7 +36,7 @@ There are many instances where a lot of functionality is desired that will clutt
 Creating a user experience that doesn't lag is a challenge that requires foresight and pristine application architecture. As we push the design paradigms further, we have more and more data serialization happening as well as image processing and resource recycling. Getting this right requires experience far beyond what provided SDKs will achieve.
 
 <p align="center">
-	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/io-android-performance-wst.gif" height="550">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/io-android-performance-wst.gif">
 	</br><i>WhoSay Talent</i>
 </p>
 
