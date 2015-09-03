@@ -62,3 +62,12 @@ Different platforms offer a variety of unique ways to engage with the user. Andr
 
 This widget depicts the different administrative districts (boroughs) of New York City. Each borough in this widget lights up when there is new information posted on the internet about or from those boroughs. They can also respond to touch events independently. Engagement opportunities exist far outside of the common app-in-a-box model when it comes to development on mobile platforms, and it is important to architect applications with an understanding of this.
 
+## Low Friction Login
+
+Give a helping hand.
+
+<p align="center">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-lowfrictionloginA-android-wst.gif" height="550'">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-lowfrictionloginA-android-wst.gif" height="550'">
+	</br><i>WhoSay Talent - version 3.7</i>
+</p>
