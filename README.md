@@ -33,6 +33,15 @@ There are many instances where a lot of functionality is desired that will clutt
 
 ## I/O operations without degrading performance
 
+Creating a user experience that doesn't lag is a challenge that requires foresight and pristine application architecture. As we push the design paradigms further, we have more and more data serialization happening as well as image processing and resource recycling. Getting this right requires experience far beyond what provided SDKs will achieve.
+
+<p align="center">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/io-android-performance-wst.gif" height="550">
+	</br><i>WhoSay Talent</i>
+</p>
+
+This example shows many database queries happening, as well as garbage collection. These are all I/O operations which can block the UI thread without careful thought, yet there is no blocking occuring to the user due to successful design, despite an ever increasing number of network calls and views being loaded.
+
 ## Custom Loading Indicators
 
 ## Caching
@@ -40,3 +49,8 @@ There are many instances where a lot of functionality is desired that will clutt
 ## Threading
 
 ## Network Operations
+Non-intrusive network operations maintain 
+
+## Lazy Loading
+
+## 
