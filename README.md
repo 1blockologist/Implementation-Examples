@@ -56,7 +56,7 @@ It is prudent to consider that even loading indicators can be engagement opportu
 Different platforms offer a variety of unique ways to engage with the user. Android offers widgets, which are applications which can display views on the home screen (a.k.a the launcher). Without a deep understanding of "views", it may not be obvious that non-standard shapes can be used to create widgets, as seen in this example:
 
 <p align="center">
-	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-widget-ml.gif" height="550'">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-widget-ml.gif" height="350'">
 	</br><i>New York City MapLights Widget</i>
 </p>
 
