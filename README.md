@@ -8,6 +8,12 @@ Presented are descriptions and visual examples of implementations I've created. 
 - [Implementation Examples](#intro)
 - [Table of Contents](#toc)
 - [Custom Pull to Refresh](#custom-ptr)
+- [Custom Sticky Headers](#custom-sticky-headers)
+- [Stateful Navigation / UI Elements](#stateful-nav)
+- [I/O operations without degrading performance](#io-operations)
+- [Custom Loading Indicators](#custom-loading)
+- [Custom Platform Specific Features](#custom-features)
+- [Low Friction Login](#low-friction-login)
 
 ## Custom Pull to Refresh
 
