@@ -36,6 +36,7 @@ Table view headers provide an opportunity to show additional relevant informatio
 
 Here, the tableview cells are tied to a date and also show numbers, but an explanation about which date or what the numbers mean is not a part of the cell's user interface (UI), instead they are all aligned with a column named in the tableview header. This UI allows for less clutter in each cell and gives the user more relevant information that can be seen in a quick glance.
 
+<a name="stateful-nav"></a>
 ## Stateful Navigation / UI Elements
 
 There are many instances where a lot of functionality is desired that will clutter a screen with static buttons to get the user's attention. UX designers often don't consider element states in their static image designs. Stateful navigation is an improvement to UX where certain visual elements are hidden when they are not relevent to the user. An optimization that the shows or hides information based on what the user is looking at, without requiring the user to touch buttons/symbols that drill them down into other parts of the app.
@@ -45,6 +46,7 @@ There are many instances where a lot of functionality is desired that will clutt
 	</br><i>Trend Prophet - Stock Market Trading - version 0.13</i>
 </p>
 
+<a name="io-operations"></a>
 ## I/O operations without degrading performance
 
 <p align="center">
