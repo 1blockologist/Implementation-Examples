@@ -44,6 +44,19 @@ This example shows many database queries being executed, as well as garbage coll
 
 ## Custom Loading Indicators
 
+
+
+## Custom Platform Specific Features
+
+Different platforms offer a variety of unique ways to engage with the user. Android offers widgets, which are applications which can display views on the home screen (a.k.a the launcher). Without a deep understanding of "views", it may not be obvious that non-standard shapes can be used to create widgets, as seen in this example:
+
+<p align="center">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-android-widget-ml.gif">
+	</br><i>New York City MapLights Widget</i>
+</p>
+
+This widget depicts the different administrative districts (boroughs) of New York City. Each borough in this widget lights up when there is new information posted on the internet about or from those boroughs. They can also respond to touch events independently.
+
 ## Caching
 
 ## Threading
