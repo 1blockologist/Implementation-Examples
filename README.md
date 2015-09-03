@@ -1,5 +1,5 @@
 # Implementation Examples
-Descriptions and visual examples of implementations I've created
+Descriptions and visual examples of implementations I've created. Application development can be an art that offers a myriad of creative opportunity that can improve functionality and the user experience, reducing friction and boosting performance.
 
 ## Custom Pull to Refresh
 
@@ -44,7 +44,12 @@ This example shows many database queries being executed, as well as garbage coll
 
 ## Custom Loading Indicators
 
+It is prudent to consider that even loading indicators can be engagement opportunities for delivering information, entertainment, branding or theming.
 
+<p align="center">
+	<img align="center" src="https://github.com/ericlw/Implementation-Examples/blob/master/images/ux-customloading-android-wst.gif" height="550'">
+	</br><i>WhoSay Talent - version 3.7</i>
+</p>
 
 ## Custom Platform Specific Features
 
