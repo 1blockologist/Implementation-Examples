@@ -61,7 +61,9 @@ Different platforms offer a variety of unique ways to engage with the user. Andr
 	</br><i>New York City MapLights Widget (left), WhoSay Fan (right)</i>
 </p>
 
-This widget depicts the different administrative districts (boroughs) of New York City. Each borough in this widget lights up when there is new information posted on the internet about or from those boroughs. They can also respond to touch events independently. Engagement opportunities exist far outside of the common app-in-a-box model when it comes to development on mobile platforms, and it is important to architect applications with an understanding of this.
+The left widget depicts the different administrative districts (boroughs) of New York City. Each borough in this widget lights up when there is new information posted on the internet about or from those boroughs. They can also respond to touch events independently. Engagement opportunities exist far outside of the common app-in-a-box model when it comes to development on mobile platforms, and it is important to architect applications with an understanding of this.
+
+The widget on the right depicts a custom view within a flip-card widget object provided by the android SDK. Each card also deep links into the full activity process based application.
 
 ## Low Friction Login
 
